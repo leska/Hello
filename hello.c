@@ -1,6 +1,6 @@
 #include <stdio.h>
-int main()
+int main ()
 {
-	printf()[D"")[D[DHello,world![2~")[D[D\n[2~");
+	printf()[D""[DHello, world!");
 	return 0;
 }
